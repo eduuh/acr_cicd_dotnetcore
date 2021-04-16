@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L33lb1WHl/eDxGaPTWTNaP1faxBsd1DKdnMfUBBr46QJsJ8jJ/tFXgwsKCMjV45aVlyY/rGjW99eS9vlpcXk1g==",
+  "success": true,
+  "projectFilePath": "/media/data/repos/powerrepos/acr_cicd_dotnetcore/acr_cicd_dotnetcore.csproj",
+  "expectedPackageFiles": [
+    "/home/eduuh/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
